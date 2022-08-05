@@ -1,3 +1,6 @@
+let _robot= new Robot(0,0,'N');
+let _ground = new Ground(5,5);
+let c ="MML";
 
 function PositionRobot(robot,ground,command){
     let c = command.toUpperCase();
@@ -83,3 +86,4 @@ function PositionRobot(robot,ground,command){
     } 
     
 }
+console.log(PositionRobot(_robot,_ground,c));
