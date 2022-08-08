@@ -5,8 +5,8 @@
 # Tecnologias utilizadas 
 ![JavaScript Badge]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-Para executar o projeto, efetive o download [clique aqui!](https://github.com/MarcelinoGarcia-NA/DesafioRoboMercadoRadar/archive/refs/heads/main.zip) ,basta descompactar o projeto e abrir no navegador o arquivo "index.html",
-uma vez que o projeto é desenvolvido em HTML, CSS e JavaScript "puro",ou seja nenhuma biblioteca ou framework foi utilizada neste desafio.
+Para executar o projeto, efetive o download [clique aqui!](https://github.com/MarcelinoGarcia-NA/DesafioRoboMercadoRadar/archive/refs/heads/main.zip) , basta descompactar o projeto e abrir no navegador o arquivo "index.html",
+uma vez que o projeto é desenvolvido em HTML, CSS e JavaScript "puro", ou seja nenhuma biblioteca ou framework foram utilizadas neste desafio.
 
 Esta disponível o deploy do projeto na plataforma Heroku:
 
