@@ -1,11 +1,11 @@
 # Desafio -­ Lógica de Programação (Robô da Mercado Radar Space Agency).
 
-[Enunciado!](#ancora1)
+###Enuciado: [me leve lá](#ancora1)
 
 # Tecnologias utilizadas 
 ![JavaScript Badge]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-Para executar o projeto, basta abrir em um navegador o arquivo "index.html",
+Para executar o projeto, efetive o download [clique aqui!](https://github.com/MarcelinoGarcia-NA/MarcelinoGarcia-NA/DesafioRoboMercadoRadar/archive/refs/heads/main.zip) ,basta descompactar o projeto e abrir no navegador o arquivo "index.html",
 uma vez que o projeto é desenvolvido em HTML, CSS e JavaScript "puro",ou seja nenhuma biblioteca foi utilizada neste desafio.
 
 Esta disponível o deploy do projeto na plataforma Heroku:
@@ -21,7 +21,7 @@ Imagens do desafio!
 (Tela apresentando a posição do Robô).
 
 ![Screenshot_5](https://user-images.githubusercontent.com/64509713/183326447-0540e173-5898-4a1d-a7b2-012aaceec829.png)
-(Tela demostando que robô não pode se movimentar para fora do terreno).
+(Tela apresentando a mensagem, o robô não pode se movimentar para fora do terreno).
 
 # Testes:
 MML----> retorno (0,2,W);
@@ -71,5 +71,8 @@ Requisitos técnicos
 O desafio deve ser entregue escrito em qualquer linguagem de programação;
 Não deverá ser utilizada qualquer biblioteca de terceiros;
 
- 
-Caso tenha alguma dúvida, tome a decisão que julgar ser a melhor e encaminhe com a solução do desafio dizendo qual era sua dúvida, qual foi a decisão tomada e defenda a sua posição.
+### Dicas e sujestões! Vamos conversar, desta forma irei evoluir! 
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelino%20Garcia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelino-garcia-2a1309219/)](https://www.linkedin.com/in/marcelino-garcia-2a1309219/) 
+[![Gmail Badge](https://img.shields.io/badge/-marcelino.garcia@novaandradina.org-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelino.garcia@novaandradina.org)](mailto:marcelino.garcia@novaandradina.org)
+[![Instagram Badge](https://img.shields.io/badge/-marcelinovitorgarcia-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcelinovitorgarcia/)](https://www.instagram.com/marcelinovitorgarcia/)
+
