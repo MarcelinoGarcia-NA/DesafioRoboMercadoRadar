@@ -71,7 +71,7 @@ Requisitos técnicos
 O desafio deve ser entregue escrito em qualquer linguagem de programação;
 Não deverá ser utilizada qualquer biblioteca de terceiros;
 
-### Dicas e sujestões! Vamos conversar, desta forma irei evoluir! 
+### Dicas e sugestões! Vamos conversar, desta forma irei evoluir! 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelino%20Garcia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelino-garcia-2a1309219/)](https://www.linkedin.com/in/marcelino-garcia-2a1309219/) 
 [![Gmail Badge](https://img.shields.io/badge/-marcelino.garcia@novaandradina.org-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelino.garcia@novaandradina.org)](mailto:marcelino.garcia@novaandradina.org)
 [![Instagram Badge](https://img.shields.io/badge/-marcelinovitorgarcia-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcelinovitorgarcia/)](https://www.instagram.com/marcelinovitorgarcia/)
